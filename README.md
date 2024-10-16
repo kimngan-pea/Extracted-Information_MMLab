@@ -1,16 +1,7 @@
-# extracted_information
-
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Used Flutter platform to built a mobile application
+• Received some information from user in form of an image containing text 
+• Called API for extracted information of Backend parts and received response in form of raw text
+• Collected a template containing the information that needs to be display from the user and sent along with the raw text to the API for the backend
+• Show results for user that is the extracted information template as text or Json file.
